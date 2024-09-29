@@ -1,4 +1,4 @@
-# Book-Recommendation-System
+# Book-Recommendation-System(Collaborative Filtering Based)
 
 ## Unzip the data in data folder
 
