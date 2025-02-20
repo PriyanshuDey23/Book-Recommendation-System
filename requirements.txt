@@ -1,7 +1,9 @@
-### dependency
+pandas
 streamlit
 numpy
+matplotlib
 scikit-learn
+seaborn
+scipy
 
-### local packages -
 -e . 
