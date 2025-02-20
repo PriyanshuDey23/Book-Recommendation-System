@@ -1,6 +1,6 @@
 # Book Recommendation System (Collaborative Filtering Based)
 
-(output.png)
+!(output.png)
 
 ## Overview
 The **Book Recommendation System** utilizes collaborative filtering to provide personalized book recommendations based on user preferences. The system processes user interactions and recommends books that align with similar users' interests.
